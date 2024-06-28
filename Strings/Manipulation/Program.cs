@@ -1,4 +1,6 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
+﻿                       // Pythagoras Dokpesi BU/23C/IT/8941
+
+// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for manipulating string content
 
 string str1 = "The quick brown fox jumps over the lazy dog.";

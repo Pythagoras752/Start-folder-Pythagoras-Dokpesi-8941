@@ -1,4 +1,6 @@
-﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
+﻿                           // Pythagoras Dokpesi BU/23C/IT/8941
+
+// LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Using Timeout settings for RegEx in .NET
 using System.Text.RegularExpressions;
 using System.Diagnostics;

@@ -1,4 +1,6 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
+﻿                    // Pythagoras Dokpesi BU/23C/IT/8941
+
+// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing dates from strings
 
 // Collection of various date string formats to attempt parsing

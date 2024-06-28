@@ -1,4 +1,6 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
+﻿                           // Pythagoras Dokpesi BU/23C/IT/8941
+
+// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing numerical data from strings
 
 string[] NumStrs = {"  1 ", " 1.45  ", "-100", "5e+04 "};

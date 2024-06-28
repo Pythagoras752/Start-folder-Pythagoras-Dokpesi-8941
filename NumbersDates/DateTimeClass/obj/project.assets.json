@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lawre\\Downloads\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+      "projectUniqueName": "C:\\Users\\lawre\\Downloads\\Start folder Pythagoras Dokpesi 8941\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
       "projectName": "DateTimeClass",
-      "projectPath": "C:\\Users\\lawre\\Downloads\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+      "projectPath": "C:\\Users\\lawre\\Downloads\\Start folder Pythagoras Dokpesi 8941\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
       "packagesPath": "C:\\Users\\lawre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lawre\\Downloads\\Start\\NumbersDates\\DateTimeClass\\obj\\",
+      "outputPath": "C:\\Users\\lawre\\Downloads\\Start folder Pythagoras Dokpesi 8941\\NumbersDates\\DateTimeClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

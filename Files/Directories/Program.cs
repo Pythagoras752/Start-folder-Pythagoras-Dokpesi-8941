@@ -1,4 +1,7 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
+﻿
+                // Pythagoras Dokpesi BU/23C/IT/8941
+
+// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Creating and Deleting Directories
 
 const string dirname = "TestDir";

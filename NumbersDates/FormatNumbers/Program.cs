@@ -1,4 +1,6 @@
-﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
+﻿                   // Pythagoras Dokpesi BU/23C/IT/8941
+
+// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for formatting numerical data in .NET
 
 int[] quarters = {1,2,3,4};
