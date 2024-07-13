@@ -45,8 +45,7 @@ Console.WriteLine(dir);
 
  Console.WriteLine("All directory contents:");
 Console.WriteLine("All directory contents:");
-List<string> thecontents = new
-List<string>(Directory.EnumerateFileSystemEntries(curpath));
+List<string> thecontents = new List<string>(Directory.EnumerateFileSystemEntries(curpath));
 foreach (string dir in thecontents) {
 Console.WriteLine(dir);
 }

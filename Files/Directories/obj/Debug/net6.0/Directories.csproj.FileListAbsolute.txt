@@ -12,3 +12,17 @@ C:\Users\lawre\Downloads\Start\Files\Directories\obj\Debug\net6.0\refint\Directo
 C:\Users\lawre\Downloads\Start\Files\Directories\obj\Debug\net6.0\Directories.pdb
 C:\Users\lawre\Downloads\Start\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
 C:\Users\lawre\Downloads\Start\Files\Directories\obj\Debug\net6.0\ref\Directories.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\Files\Directories\obj\Debug\net6.0\ref\Directories.dll

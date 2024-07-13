@@ -12,3 +12,17 @@ C:\Users\lawre\Downloads\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refin
 C:\Users\lawre\Downloads\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
 C:\Users\lawre\Downloads\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
 C:\Users\lawre\Downloads\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll

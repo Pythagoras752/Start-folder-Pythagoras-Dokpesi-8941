@@ -12,3 +12,17 @@ C:\Users\lawre\Downloads\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refin
 C:\Users\lawre\Downloads\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
 C:\Users\lawre\Downloads\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
 C:\Users\lawre\Downloads\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\lawre\Downloads\Start folder Pythagoras Dokpesi 8941\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll

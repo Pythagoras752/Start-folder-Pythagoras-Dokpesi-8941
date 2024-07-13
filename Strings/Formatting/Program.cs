@@ -8,7 +8,7 @@ int i1 = 2000;
 
 // TODO: Spacing and Alignment: Indexes
 
-Console.WriteLine("{0,-15} {0 , 10}", "float val"," int val ");
+Console.WriteLine("{0,-15} {1 , 10}", "float val"," int val ");
 Console.WriteLine("{0,-15} {1,10}",f1,i1 );
 
 
